@@ -1,2 +1,1 @@
-# Anemia_level
-The research is conducted by Belayneh Endalamaw and Tesfamariam Mulugeta Abuhay (PhD)
+Predicting the level of anemia among Ethiopian pregnant women using homogeneous ensemble machine learning algorithm
