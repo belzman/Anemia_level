@@ -1,4 +1,4 @@
-##Predicting the level of anemia among Ethiopian pregnant women using homogeneous ensemble machine learning algorithm
+## Predicting the level of anemia among Ethiopian pregnant women using homogeneous ensemble machine learning algorithm
 ## Background
 More than 115,000 maternal deaths and 591,000 prenatal deaths occurred in the world per year with anemia, the reduction of red blood cells or hemoglobin in the blood. The world health organization divides anemia in pregnancy into mild anemia (Hb 10–10.9 g/dl), moderate anemia (Hb 7.0–9.9 g/dl), and severe anemia (Hb < 7 g/dl). This study aims to predict the level of anemia among pregnant women in the case of Ethiopia using homogeneous ensemble machine learning algorithms.
 
