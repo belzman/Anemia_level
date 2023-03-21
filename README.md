@@ -10,3 +10,6 @@ The overall accuracy of random forest, extreme gradient boosting, and cat boost 
 
 # Conclusion
 Finally, the researcher decided to use cat boost algorithms with one versus the rest for further use in the development of artifacts, model deployment, risk factor analysis, and generating rules because it has registered better performance with 97.6% accuracy. The most determinant risk factors of anemia among pregnant women were identified using feature importance. Some of them are the duration of the current pregnancy, age, source of drinking water, respondent’s (pregnant women) occupation, number of household members, wealth index, husband/partner's education level, and birth history.
+# Author
+@Belayneh Endalamaw Dejene
+@Tesfamariam Mulugeta Abuhay
